@@ -26,5 +26,7 @@
 - пакет views: содержит класс MainView
     - MainView: отвечает за представление данных на веб-странице
 
-![](images/Screenshot 2023-09-28 223341.png)
+## Пример работы программы
+
+<img src="C:\DevFolder\SpringBootREST\SPAWeb\images\Screenshot 2023-09-28 223341.png" alt=""/>
 
