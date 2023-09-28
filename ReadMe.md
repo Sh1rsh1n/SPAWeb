@@ -28,5 +28,4 @@
 
 ## Пример работы программы
 
-<img src="C:\DevFolder\SpringBootREST\SPAWeb\images\Screenshot 2023-09-28 223341.png" alt=""/>
-
+![Example](/images/example.png)
